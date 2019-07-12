@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<setting>
+    <General>
+        <DetectMode DetectMode="2"/>
+        <TranSpeed TranSpeed="3240"/>
+        <LongSpeed LongSpeed="5900"/>
+        <TrigMode TrigMode="0"/>
+        <A_Mode A_Mode="0"/>
+    </General>
+    <Encoder>
+        <X_ScanRange X_ScanRange="180"/>
+        <Y_ScanRange Y_ScanRange="0"/>
+        <ScanSpeed ScanSpeed="50"/>
+    </Encoder>
+    <PhasedArray>
+        <PA_Freq PA_Freq="5"/>
+        <PA_EleCount PA_EleCount="60"/>
+        <PA_Pitch PA_Pitch="1"/>
+        <PA_Angle PA_Angle="33.7"/>
+        <PA_WedgeSpeed PA_WedgeSpeed="2330"/>
+        <PA_Height PA_Height="7.4"/>
+        <PA_PRF PA_PRF="1000"/>
+        <PA_LawNum PA_LawNum="12"/>
+        <Group1>
+            <Group_Num Group_Num="1"/>
+            <Transmit_EleStart Transmit_EleStart="18"/>
+            <Transmit_EleActive Transmit_EleActive="16"/>
+            <Transmit_Angle Transmit_Angle="55"/>
+            <Transmit_Focus Transmit_Focus="64.24"/>
+            <Receive_EleStart Receive_EleStart="18"/>
+            <Receive_EleActive Receive_EleActive="16"/>
+            <Receive_Angle Receive_Angle="55"/>
+            <Receive_Focus Receive_Focus="64.24"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="18"/>
+            <PA_Gate_Width PA_Gate_Width="5"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="20"/>
+            <PA_Gain PA_Gain="30"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="2"/>
+            <PA_ARange_Start PA_ARange_Start="10"/>
+            <PA_ARange_Length PA_ARange_Length="50"/>
+            <PA_display PA_display="true"/>
+        </Group1>
+        <Group2>
+            <Group_Num Group_Num="2"/>
+            <Transmit_EleStart Transmit_EleStart="14"/>
+            <Transmit_EleActive Transmit_EleActive="16"/>
+            <Transmit_Angle Transmit_Angle="45"/>
+            <Transmit_Focus Transmit_Focus="86.65"/>
+            <Receive_EleStart Receive_EleStart="5"/>
+            <Receive_EleActive Receive_EleActive="16"/>
+            <Receive_Angle Receive_Angle="55"/>
+            <Receive_Focus Receive_Focus="85.17"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="25"/>
+            <PA_Gate_Width PA_Gate_Width="5"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="20"/>
+            <PA_Gain PA_Gain="30"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="2"/>
+            <PA_ARange_Start PA_ARange_Start="10"/>
+            <PA_ARange_Length PA_ARange_Length="50"/>
+            <PA_display PA_display="true"/>
+        </Group2>
+        <Group3>
+            <Group_Num Group_Num="3"/>
+            <Transmit_EleStart Transmit_EleStart="6"/>
+            <Transmit_EleActive Transmit_EleActive="16"/>
+            <Transmit_Angle Transmit_Angle="52.5"/>
+            <Transmit_Focus Transmit_Focus="89.43"/>
+            <Receive_EleStart Receive_EleStart="6"/>
+            <Receive_EleActive Receive_EleActive="16"/>
+            <Receive_Angle Receive_Angle="52.5"/>
+            <Receive_Focus Receive_Focus="89.43"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="25"/>
+            <PA_Gate_Width PA_Gate_Width="5"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="20"/>
+            <PA_Gain PA_Gain="30"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="2"/>
+            <PA_ARange_Start PA_ARange_Start="10"/>
+            <PA_ARange_Length PA_ARange_Length="50"/>
+            <PA_display PA_display="true"/>
+        </Group3>
+        <Group4>
+            <Group_Num Group_Num="4"/>
+            <Transmit_EleStart Transmit_EleStart="17"/>
+            <Transmit_EleActive Transmit_EleActive="16"/>
+            <Transmit_Angle Transmit_Angle="45"/>
+            <Transmit_Focus Transmit_Focus="83.52"/>
+            <Receive_EleStart Receive_EleStart="0"/>
+            <Receive_EleActive Receive_EleActive="0"/>
+            <Receive_Angle Receive_Angle="0"/>
+            <Receive_Focus Receive_Focus="0"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="0"/>
+            <PA_Gate_Width PA_Gate_Width="0"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="0"/>
+            <PA_Gain PA_Gain="0"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="0"/>
+            <PA_ARange_Start PA_ARange_Start="0"/>
+            <PA_ARange_Length PA_ARange_Length="0"/>
+            <PA_display PA_display="true"/>
+        </Group4>
+        <Group5>
+            <Group_Num Group_Num="0"/>
+            <Transmit_EleStart Transmit_EleStart="0"/>
+            <Transmit_EleActive Transmit_EleActive="0"/>
+            <Transmit_Angle Transmit_Angle="0"/>
+            <Transmit_Focus Transmit_Focus="0"/>
+            <Receive_EleStart Receive_EleStart="0"/>
+            <Receive_EleActive Receive_EleActive="0"/>
+            <Receive_Angle Receive_Angle="0"/>
+            <Receive_Focus Receive_Focus="0"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="0"/>
+            <PA_Gate_Width PA_Gate_Width="0"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="0"/>
+            <PA_Gain PA_Gain="0"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="0"/>
+            <PA_ARange_Start PA_ARange_Start="0"/>
+            <PA_ARange_Length PA_ARange_Length="0"/>
+            <PA_display PA_display="0"/>
+        </Group5>
+        <Group6>
+            <Group_Num Group_Num="0"/>
+            <Transmit_EleStart Transmit_EleStart="0"/>
+            <Transmit_EleActive Transmit_EleActive="0"/>
+            <Transmit_Angle Transmit_Angle="0"/>
+            <Transmit_Focus Transmit_Focus="0"/>
+            <Receive_EleStart Receive_EleStart="0"/>
+            <Receive_EleActive Receive_EleActive="0"/>
+            <Receive_Angle Receive_Angle="0"/>
+            <Receive_Focus Receive_Focus="0"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="0"/>
+            <PA_Gate_Width PA_Gate_Width="0"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="0"/>
+            <PA_Gain PA_Gain="0"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="0"/>
+            <PA_ARange_Start PA_ARange_Start="0"/>
+            <PA_ARange_Length PA_ARange_Length="0"/>
+            <PA_display PA_display="0"/>
+        </Group6>
+        <Group7>
+            <Group_Num Group_Num="0"/>
+            <Transmit_EleStart Transmit_EleStart="0"/>
+            <Transmit_EleActive Transmit_EleActive="0"/>
+            <Transmit_Angle Transmit_Angle="0"/>
+            <Transmit_Focus Transmit_Focus="0"/>
+            <Receive_EleStart Receive_EleStart="0"/>
+            <Receive_EleActive Receive_EleActive="0"/>
+            <Receive_Angle Receive_Angle="0"/>
+            <Receive_Focus Receive_Focus="0"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="0"/>
+            <PA_Gate_Width PA_Gate_Width="0"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="0"/>
+            <PA_Gain PA_Gain="0"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="0"/>
+            <PA_ARange_Start PA_ARange_Start="0"/>
+            <PA_ARange_Length PA_ARange_Length="0"/>
+            <PA_display PA_display="0"/>
+        </Group7>
+        <Group8>
+            <Group_Num Group_Num="0"/>
+            <Transmit_EleStart Transmit_EleStart="0"/>
+            <Transmit_EleActive Transmit_EleActive="0"/>
+            <Transmit_Angle Transmit_Angle="0"/>
+            <Transmit_Focus Transmit_Focus="0"/>
+            <Receive_EleStart Receive_EleStart="0"/>
+            <Receive_EleActive Receive_EleActive="0"/>
+            <Receive_Focus Receive_Focus="0"/>
+            <Receive_Angle Receive_Angle="0"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="0"/>
+            <PA_Gate_Width PA_Gate_Width="0"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="0"/>
+            <PA_Gain PA_Gain="0"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="0"/>
+            <PA_ARange_Start PA_ARange_Start="0"/>
+            <PA_ARange_Length PA_ARange_Length="0"/>
+            <PA_display PA_display="0"/>
+        </Group8>
+        <Group9>
+            <Group_Num Group_Num="0"/>
+            <Transmit_EleStart Transmit_EleStart="0"/>
+            <Transmit_EleActive Transmit_EleActive="0"/>
+            <Transmit_Angle Transmit_Angle="0"/>
+            <Transmit_Focus Transmit_Focus="0"/>
+            <Receive_EleStart Receive_EleStart="0"/>
+            <Receive_EleActive Receive_EleActive="0"/>
+            <Receive_Angle Receive_Angle="0"/>
+            <Receive_Focus Receive_Focus="0"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="0"/>
+            <PA_Gate_Width PA_Gate_Width="0"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="0"/>
+            <PA_Gain PA_Gain="0"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="0"/>
+            <PA_ARange_Start PA_ARange_Start="0"/>
+            <PA_ARange_Length PA_ARange_Length="0"/>
+            <PA_display PA_display="0"/>
+        </Group9>
+        <Group10>
+            <Group_Num Group_Num="0"/>
+            <Transmit_EleStart Transmit_EleStart="0"/>
+            <Transmit_EleActive Transmit_EleActive="0"/>
+            <Transmit_Angle Transmit_Angle="0"/>
+            <Transmit_Focus Transmit_Focus="0"/>
+            <Receive_EleStart Receive_EleStart="0"/>
+            <Receive_EleActive Receive_EleActive="0"/>
+            <Receive_Angle Receive_Angle="0"/>
+            <Receive_Focus Receive_Focus="0"/>
+            <PA_Gate_MeasureMode PA_Gate_MeasureMode="0"/>
+            <PA_Gate_Start PA_Gate_Start="0"/>
+            <PA_Gate_Width PA_Gate_Width="0"/>
+            <PA_Gate_Threshold PA_Gate_Threshold="0"/>
+            <PA_Gain PA_Gain="0"/>
+            <PA_TGC PA_TGC="0"/>
+            <PA_Filter PA_Filter="0"/>
+            <PA_ARange_Start PA_ARange_Start="0"/>
+            <PA_ARange_Length PA_ARange_Length="0"/>
+            <PA_display PA_display="0"/>
+        </Group10>
+    </PhasedArray>
+    <TOFD>
+        <TOFD_Freq TOFD_Freq="3"/>
+        <TOFD_MeasureMode TOFD_MeasureMode="0"/>
+        <TOFD_Gate_Start TOFD_Gate_Start="10"/>
+        <TOFD_Gate_Width TOFD_Gate_Width="12"/>
+        <TOFD_Gate_Threshold TOFD_Gate_Threshold="20"/>
+        <TOFD_PRF TOFD_PRF="1000"/>
+        <TOFD_Gain TOFD_Gain="36"/>
+        <TOFD_TGC TOFD_TGC="0"/>
+        <TOFD_ARange_Start TOFD_ARange_Start="5"/>
+        <TOFD_ARange_Length TOFD_ARange_Length="20"/>
+        <TOFD_Filter TOFD_Filter="2"/>
+        <TOFD_MeanValue TOFD_MeanValue="4"/>
+    </TOFD>
+</setting>
